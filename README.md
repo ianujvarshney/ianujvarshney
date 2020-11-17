@@ -1,6 +1,6 @@
 ## Hi there, [✰Iαᴍa͢͢͢n𝓊𝖏✰](https://www.linkedin.com/in/ianujvarshney)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Views&color=blue&style=plastic" alt="Anuj's" /> </p>
-<a href="https://twitter.com/anujgupta191197">
+<a href="https://twitter.com/iAnujVarshney">
   <img align="left" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ianujvarshney">
