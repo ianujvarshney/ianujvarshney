@@ -1,21 +1,21 @@
-## Hi there, [✰Iαᴍa͢͢͢n𝓊𝖏✰](https://www.linkedin.com/in/anuj-varshney)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, [✰Iαᴍa͢͢͢n𝓊𝖏✰](https://www.linkedin.com/in/ianujvarshney)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Views&color=blue&style=plastic" alt="Anuj's" /> </p>
 <a href="https://twitter.com/anujgupta191197">
   <img align="left" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/anuj-varshney">
+<a href="https://www.linkedin.com/in/ianujvarshney">
   <img align="left" alt="Anuj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Anujbhai-1997">
+<a href="https://github.com/iAnujVarshney">
   <img align="left" alt="Anuj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/iamtheAnuj">
+<a href="https://t.me/iAnujVarshney">
   <img align="left" alt="Anuj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="#">
+<a href="https://www.instagram.com/ianujvarshney/">
   <img align="left" alt="Anuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ImtheAnuj/">
+<a href="https://www.facebook.com/IAnujVarshney/">
   <img align="left" alt="Anuj's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="#">
@@ -31,13 +31,13 @@
 - :seedling: I’m currently learning more about <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence </a>.
 - :dancers: I’m looking to collaborate on <a href="https://www.newstechnews.in/"> Newstechnews </a>.
 - :speech_balloon: Ask me about Machine Learning or any tech related stuff.
-- :mailbox: How to reach me: <a href="https://twitter.com/anujgupta191197">Twitter - @anujgupta191197</a>, <a href="https://www.facebook.com/ImtheAnuj">Facebook - @ImtheAnuj</a> 
+- :mailbox: How to reach me: <a href="https://twitter.com/ianujvarshney">Twitter - @iAnujVarshney</a>, <a href="https://www.facebook.com/IAnujVarshney">Facebook - @IAnujVarshney</a> 
 - :smile: Pronouns: He/His
 - :zap: Fun fact: I spend almost 12 hours listening songs everyday
 
-[![Twitter: anujgupta191197](https://img.shields.io/twitter/follow/anujgupta191197?style=social)](https://twitter.com/anujgupta191197)
-[![Linkedin: anuj-varshney](https://img.shields.io/badge/anuj-varshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuj-varshney)](https://www.linkedin.com/in/anuj-varshney/)
-[![GitHub: Anujbhai-1997](https://img.shields.io/github/followers/Anujbhai-1997?label=follow&style=social)](https://github.com/Anujbhai-1997)
+[![Twitter: IAnujVarshney](https://img.shields.io/twitter/follow/anujvarshney?style=social)](https://twitter.com/iAnujVarshney)
+[![Linkedin: anuj-varshney](https://img.shields.io/badge/anuj-varshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ianujvarshney)](https://www.linkedin.com/in/ianujvarshney/)
+[![GitHub: ianujvarshney](https://img.shields.io/github/followers/ianujvarshney?label=follow&style=social)](https://github.com/ianujvarshney)
 [![website: Newstechnews](https://img.shields.io/badge/Website-Newstechnews.in-2648ff?style=flat-square&logo=google-chrome)](https://www/newstechnews.in/)
 
 **Languages and Tools:**  
