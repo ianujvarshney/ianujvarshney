@@ -21,14 +21,14 @@
 <a href="#">
   <img align="left" alt="Anuj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<img align="right" alt="GIF" src="https://github.com/Anujbhai-1997/Anujbhai-1997/blob/02e741100a85d8b2a8c24bbc9a4ffdc6c6064950/github.jpg" width="300" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ianujvarshney/Anujbhai-1997/blob/main/github-removebg-preview.png" width="300" height="320" />
 <br/>
 <br/>
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-- :telescope: I’m currently working on <a href="https://www.kaggle.com/"> Machine Learning </a>.
-- :seedling: I’m currently learning more about <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence </a>.
+- :telescope: I’m currently working on <a href="https://github.com/ianujvarshney/Html-Css-and-JavaScript"> Web Developer</a>.
+- :seedling: I’m currently learning more about <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Manchine Learning </a>.
 - :dancers: I’m looking to collaborate on <a href="https://www.newstechnews.in/"> Newstechnews </a>.
 - :speech_balloon: Ask me about Machine Learning or any tech related stuff.
 - :mailbox: How to reach me: <a href="https://twitter.com/ianujvarshney">Twitter - @iAnujVarshney</a>, <a href="https://www.facebook.com/IAnujVarshney">Facebook - @IAnujVarshney</a> 
