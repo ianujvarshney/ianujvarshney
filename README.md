@@ -28,9 +28,9 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 - :telescope: I’m currently working on <h1><a href="https://github.com/ianujvarshney/Html-Css-and-JavaScript">**`Web Developer`**</a></h1>.
-- :seedling: I’m currently learning more about <h1><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">**`Manchine Learning**`</a></h1>.
-- :dancers: I’m looking for a job on <h1><a href="https://github.com/ianujvarshney/Html-Css-and-JavaScrip/"> `**Frontend Developer**` </a></h1>.
-- :speech_balloon: I’m Currently Programming With <h1><a href="https://codeforces.com/profile/ianujvarshney">`**Codeforces**`</a></h1>.
+- :seedling: I’m currently learning more about <h1><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">**`Manchine Learning`**</a></h1>.
+- :dancers: I’m looking for a job on <h1><a href="https://github.com/ianujvarshney/Html-Css-and-JavaScrip/"> **`Frontend Developer`** </a></h1>.
+- :speech_balloon: I’m Currently Programming With <h1><a href="https://codeforces.com/profile/ianujvarshney">**`Codeforces`**</a></h1>.
 - :mailbox: How to reach me: <a href="https://twitter.com/ianujvarshney">Twitter - @iAnujVarshney</a>, <a href="https://www.facebook.com/IAnujVarshney">Facebook - @IAnujVarshney</a> 
 - :smile: Pronouns: He/His
 - :zap: Fun fact: I spend almost 12 hours listening songs everyday
