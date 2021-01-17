@@ -32,20 +32,6 @@
 - :dancers: I’m looking for a job on <a href="https://github.com/ianujvarshney/Html-Css-and-JavaScrip/"> Frontend Developer </a>.
 - :speech_balloon: I’m Currently Programming With <a href="https://codeforces.com/profile/ianujvarshney">Codeforces</a>.
 - :mailbox: How to reach me:
-
- <a href="https://twitter.com/ianujvarshney">
-  <img src="https://icons.iconarchive.com/icons/graphics-vibe/shield-badge-social/48/twitter-icon.png"/>
-</a>
-<a  href="https://www.facebook.com/IAnujVarshney">
-  <img src="https://icons.iconarchive.com/icons/graphics-vibe/shield-badge-social/48/facebook-icon.png"/>
-</a>
-<a  href="https://www.facebook.com/IAnujVarshney">
-  <img src="https://icons.iconarchive.com/icons/graphics-vibe/shield-badge-social/48/linkedin-icon.png"/>
-</a> 
-<a  href="https://www.facebook.com/IAnujVarshney">
-  <img src="https://icons.iconarchive.com/icons/graphics-vibe/shield-badge-social/48/youtube-icon.png"/>
-</a> 
-
 - :smile: Pronouns: He/His
 - :zap: Fun fact: I spend almost 12 hours listening songs everyday
 
@@ -67,7 +53,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&theme=dark&hide_langs_below=1" />
 </a>
 
-### <h1>**`209`**</h1>
 
 <a href="https://github.com/Anujbhai-1997">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianujvarshney&show_icons=true&theme=dark&line_height=27" alt="Anuj's github stats"/>
