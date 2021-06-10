@@ -28,7 +28,7 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 - :telescope: I’m currently working on <a href="https://github.com/ianujvarshney/Html-Css-and-JavaScript">Web Developer</a>.
-- :seedling: I’m currently learning more about <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Manchine Learning</a>.
+- :seedling: I’m currently learning more about <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Machine Learning</a>.
 - :dancers: I’m looking for a job on <a href="https://github.com/ianujvarshney/Html-Css-and-JavaScrip/"> Frontend Developer </a>.
 - :speech_balloon: I’m Currently Programming With <a href="https://codeforces.com/profile/ianujvarshney">Codeforces</a>.
 - :mailbox: How to reach me:
