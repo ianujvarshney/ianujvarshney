@@ -58,18 +58,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianujvarshney&show_icons=true&theme=dark&line_height=27" alt="Anuj's github stats"/>
 
 <div align="center">
-
-<!--### Show some :watch: by starring some of the repositories-->
-
-<!--<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&theme=dark&hide_langs_below=1" />
-</a>
-![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=ianujvarshney&theme=chartreuse-dark&show_icons=true)
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-<div align="center">--
-
-
-
