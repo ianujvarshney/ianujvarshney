@@ -66,15 +66,12 @@
 
 ## Coding With Me 
 
-[![Codechef](https://cp-logo.vercel.app/codechef/anuj_879)](https://www.codechef.com/users/anuj_879)&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/ianujvarshney)](https://codeforces.com/profile/ianujvarshney)&nbsp;[![Spoj](https://cp-logo.vercel.app/spoj/ianujvarshney)](https://www.spoj.com/users/ianujvarshney/)&nbsp;
+[![Codechef](https://cp-logo.vercel.app/codechef/anuj_879)](https://www.codechef.com/users/anuj_879)&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/ianujvarshney)](https://codeforces.com/profile/ianujvarshney)&nbsp;&nbsp;
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianujvarshney" alt="ianujvarshney" /></a> </p>
-
-
-
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianujvarshney" alt="ianujvarshney" /></a> </p>
 
 ## Connect with me
+
 <a href="https://linkedin.com/in/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianujvarshney" height="30" width="40" /></a> 
 <a href="https://fb.com/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianujvarshney" height="30" width="40" /></a>
 <a href="https://twitter.com/ianujvarshney" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianujvarshney" height="30" width="40" /></a> 
@@ -84,17 +81,19 @@
 <a href="https://discord.gg/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ianujvarshney" height="30" width="40" /></a>
 <a href="https://dev.to/ianujvarshney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ianujvarshney" height="30" width="40" /></a>
 
-
+## ❤ Views and Followers
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Profile Views&color=blue&style=plastic" alt="Anuj's" />
+  <a href="https://github.com/ianujvarshney?tab=followers"><img src="https://img.shields.io/github/followers/ianujvarshney?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ianujvarshney"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ianujvarshney" /></a></p><br><br>
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
   
- 
-</p>
 
 <!-- ## Hi there, [✰Iαᴍa͢͢͢n𝓊𝖏✰](https://www.linkedin.com/in/ianujvarshney)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Views&color=blue&style=plastic" alt="Anuj's" /> </p>
+
 <a href="https://twitter.com/iAnujVarshney">
   <img align="left" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
