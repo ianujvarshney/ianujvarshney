@@ -66,7 +66,7 @@
 
 ## Coding With Me 
 
-[![Codechef](https://cp-logo.vercel.app/codechef/anuj_879)](https://www.codechef.com/users/anuj_879)&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/ianujvarshney)](https://codeforces.com/profile/ianujvarshney)&nbsp;&nbsp;![Leetcode](https://img.shields.io/badge/Leetcode-0-orange)&nbsp;
+[![Codechef](https://cp-logo.vercel.app/codechef/anuj_879)](https://www.codechef.com/users/anuj_879)&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/ianujvarshney)](https://codeforces.com/profile/ianujvarshney)&nbsp;&nbsp;![Leetcode](https://img.shields.io/badge/Leetcode-0-orange)&nbsp;![SPOJ](https://img.shields.io/badge/SPOJ%20%20%20%20%20-0-blue)&nbsp;
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianujvarshney" alt="ianujvarshney" /></a> </p>
 
