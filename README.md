@@ -1,4 +1,7 @@
 
+<p align="center">
+<a href="#"><img alt="GIF" src="https://designproficient.com/blog/wp-content/uploads/2018/02/creative-process.gif" width="100%" height="100%" /></a>
+</p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anuj</h1>
 <h3 align="center"> A passionate MERN Stack developer from India</h3>
@@ -70,7 +73,6 @@
 
 ## Connect with me
 
-<img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FiAnujVarshney" /> 
 <a href="https://linkedin.com/in/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianujvarshney" height="30" width="40" /></a> 
 <a href="https://fb.com/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianujvarshney" height="30" width="40" /></a>
 <a href="https://twitter.com/ianujvarshney" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianujvarshney" height="30" width="40" /></a> 
