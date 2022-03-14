@@ -41,9 +41,9 @@ Find me on Coding Platforms:
 
 <br>
 <h2 align=left>
-<img src="#" height="50" width= auto>
+<img src="skills.png" height="50" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
-Competencies:
+Skill:
 <br></h2>
 
 <table>
@@ -94,12 +94,11 @@ Competencies:
 <a href="#"><img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&labelColor=001921&color=013243"/></a> 
 <a href="#"><img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&labelColor=0c0234&color=150458"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&labelColor=141819&color=FF6F00"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Skikit%20Learn-orange?style=for-the-badge&logo=scikit%2Dlearn&labelColor=141819&color=F7931E"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&labelColor=680000&color=D00000"/></a></td></tr>
+<a href="#"><img src="https://img.shields.io/badge/Skikit%20Learn-orange?style=for-the-badge&logo=scikit%2Dlearn&labelColor=141819&color=F7931E"/></a>
 
-<tr>
+<!-- <tr>
 <td><h4>Miscellaneous</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Ardu ino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr>
+<td><a href="#"><img src="https://img.shields.io/badge/Ardu ino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr> -->
 </table>
 
 <!-- ## 🚀 Languages and Tools:P
