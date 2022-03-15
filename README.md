@@ -1,6 +1,6 @@
-<p align="center">
-<a href="#"><img alt="GIF" src="https://designproficient.com/blog/wp-content/uploads/2018/02/creative-process.gif" width="100%" height="100%" /></a>
-</p>
+<!--<p align="center">
+//<a href="#"><img alt="GIF" src="https://designproficient.com/blog/wp-content/uploads/2018/02/creative-process.gif" width="100%" height="100%" /></a>
+//</p>-->
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anuj</h1>
 <h3 align="center"> A passionate MERN Stack developer from India</h3>
@@ -77,17 +77,17 @@ Skill:
 
 <tr>
 <td><h4>Tools</h4></td>
+
 <td>
-
-<a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>
 <a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=orange"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=orange"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a>
-</td>
+<a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a>
 
+</td>
   </tr>
 
 <tr>
@@ -98,8 +98,8 @@ Skill:
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&labelColor=141819&color=FF6F00"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Skikit%20Learn-orange?style=for-the-badge&logo=scikit%2Dlearn&labelColor=141819&color=F7931E"/></a>
 
-<!-- <tr>
-<td><h4>Miscellaneous</h4></td>
+<tr>
+<!--<td><h4>Miscellaneous</h4></td>
 <td><a href="#"><img src="https://img.shields.io/badge/Ardu ino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr> -->
 </table>
 
