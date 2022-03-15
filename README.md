@@ -84,7 +84,9 @@ Skill:
 <a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=orange"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/></a></td>
+<a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a>
+</td>
 
   </tr>
 
