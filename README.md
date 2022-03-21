@@ -4,6 +4,10 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anuj</h1>
 <h3 align="center"> A passionate MERN Stack developer from India</h3>
+<p> <a href="http://twitter.com/ianujvarshney">
+    <img src="https://img.shields.io/twitter/follow/ianujvarshney?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  </p>
 
 ## 🙋‍♂️ About Me
 
@@ -103,11 +107,6 @@ Skill:
 <td><a href="#"><img src="https://img.shields.io/badge/Ardu ino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr> -->
 </table>
 
-<!-- ## 🚀 Languages and Tools:P
-
-<p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30px" height="30px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p> -->
-
 <br><br>
 
 <p align="center">
@@ -135,90 +134,19 @@ Skill:
 
 </details>
 
-## Coding With Me
-
-[![Codechef](https://cp-logo.vercel.app/codechef/anuj_879)](https://www.codechef.com/users/anuj_879)&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/ianujvarshney)](https://codeforces.com/profile/ianujvarshney)&nbsp;&nbsp;![Leetcode](https://img.shields.io/badge/Leetcode-0-orange)&nbsp;![SPOJ](https://img.shields.io/badge/SPOJ%20%20%20%20%20-0-blue)&nbsp;
-
 ## Connect with me
 
 <a href="https://linkedin.com/in/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianujvarshney" height="30" width="40" /></a>
 <a href="https://fb.com/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianujvarshney" height="30" width="40" /></a>
 <a href="https://twitter.com/ianujvarshney" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianujvarshney" height="30" width="40" /></a>
 <a href="https://instagram.com/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianujvarshney" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/anujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ianujvarshney" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14953563/anuj-varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ianujvarshney" height="30" width="40" /></a>
-<a href="https://discord.gg/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ianujvarshney" height="30" width="40" /></a>
-<a href="https://dev.to/ianujvarshney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ianujvarshney" height="30" width="40" /></a>
 
 ## ❤ Views and Followers
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Profile Views&color=blue&style=flat" alt="Anuj's" />
-  <a href="https://github.com/ianujvarshney?tab=followers"><img src="https://img.shields.io/github/followers/ianujvarshney?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Profile Views&color=blue&style=for-the-badge" alt="Anuj's" />
+  <a href="https://github.com/ianujvarshney?tab=followers"><img src="https://img.shields.io/github/followers/ianujvarshney?label=Followers&&style=for-the-badge" alt="GitHub Badge"></a>
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ianujvarshney"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ianujvarshney&button_colour=&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a></p><br><br>
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<!-- ## Hi there, [✰Iαᴍa͢͢͢n𝓊𝖏✰](https://www.linkedin.com/in/ianujvarshney)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://twitter.com/iAnujVarshney">
-  <img align="left" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ianujvarshney">
-  <img align="left" alt="Anuj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/iAnujVarshney">
-  <img align="left" alt="Anuj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/iAnujVarshney">
-  <img align="left" alt="Anuj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/ianujvarshney/">
-  <img align="left" alt="Anuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/IAnujVarshney/">
-  <img align="left" alt="Anuj's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Anuj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<img align="right" alt="GIF" src="https://github.com/ianujvarshney/Anujbhai-1997/blob/main/github-removebg-preview.png" width="300" height="320" />
-<br/>
-<br/>
-
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial
-- :telescope: I’m currently working on <a href="https://github.com/ianujvarshney/Html-Css-and-JavaScript">Web Developer</a>.
-- :seedling: I’m currently learning more about <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Machine Learning</a>.
-- :dancers: I’m looking for a job on <a href="https://github.com/ianujvarshney/Html-Css-and-JavaScrip/"> Frontend Developer </a>.
-- :speech_balloon: I’m Currently Programming With <a href="https://codeforces.com/profile/ianujvarshney">Codeforces</a>.
-- :mailbox: How to reach me:
-- :smile: Pronouns: He/His
-- :zap: Fun fact: I spend almost 12 hours listening songs everyday
-
-[![Twitter: IAnujVarshney](https://img.shields.io/twitter/follow/anujvarshney?style=social)](https://twitter.com/iAnujVarshney)
-[![Linkedin: anuj-varshney](https://img.shields.io/badge/anuj-varshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ianujvarshney)](https://www.linkedin.com/in/ianujvarshney/)
-[![GitHub: ianujvarshney](https://img.shields.io/github/followers/ianujvarshney?label=follow&style=social)](https://github.com/ianujvarshney)
-[![website: Newstechnews](https://img.shields.io/badge/Website-Newstechnews.in-2648ff?style=flat-square&logo=google-chrome)](https://www/newstechnews.in/)
-
-**Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-
-<a href="https://github.com/ianujvarshney">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&theme=dark&hide_langs_below=1" />
-</a>
-
-
-<a href="https://github.com/ianujvarshney">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianujvarshney&show_icons=true&theme=dark&line_height=27" alt="Anuj's github stats"/>
-
-<div align="center">
- -->
+<p><a  href="https://www.buymeacoffee.com/ianujvarshney"><img style="border:1px solid white; border-radius:5px;" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ianujvarshney&button_colour=&font_colour=ffffff&font_family=Lato&outline_colour=&coffee_colour=FFDD00"></a></p><br><br>
