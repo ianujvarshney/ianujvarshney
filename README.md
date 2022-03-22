@@ -136,10 +136,10 @@ Skill:
 
 ## Connect with me
 
-<a href="https://linkedin.com/in/ianujvarshney" target="blank"><img align="center" src="" alt="ianujvarshney" height="30" width="40" /></a>
-<a href="https://fb.com/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianujvarshney" height="30" width="40" /></a>
-<a href="https://twitter.com/ianujvarshney" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianujvarshney" height="30" width="40" /></a>
-<a href="https://instagram.com/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianujvarshney" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ianujvarshney" target="blank"><img align="center" src="images/linkedin.png" alt="ianujvarshney" height="40" width="40" /></a>
+<a href="https://fb.com/ianujvarshney" target="blank"><img align="center" src="/images/facebook.png" alt="ianujvarshney" height="40" width="40" /></a>
+<a href="https://twitter.com/ianujvarshney" target="blank"> <img align="center" src="images/twitter.png" alt="ianujvarshney" height="40" width="40" /></a>
+<a href="https://instagram.com/ianujvarshney" target="blank"><img align="center" src="/images/instagram.png" alt="ianujvarshney" height="40" width="40" /></a>
 
 ## ❤ Views and Followers
 
@@ -149,4 +149,4 @@ Skill:
 </p>
 
 <h3 align="left">Support:</h3>
-<p ><a href="https://www.buymeacoffee.com/ianujvarshney"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ianujvarshney&button_colour=7D2CDD&font_colour=ffffff&font_family=Lato&outline_colour=FFDD00&coffee_colour=FFDD00"></a></p><br><br>
+<p ><a href="https://www.buymeacoffee.com/ianujvarshney"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ianujvarshney&button_colour=000000&font_colour=ffffff&font_family=Lato&outline_colour=FFDD00&coffee_colour=FFDD00"></a></p><br><br>
