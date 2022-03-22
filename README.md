@@ -38,7 +38,7 @@ Find me on Coding Platforms:
 <br></h2>
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/ianujvarshney/)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-da8200?style=for-the-badge&logo=Codeforces&color=blue&labelColor=black)](https://codeforces.com/iAnujVarshney)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-da8200?style=for-the-badge&logo=Codeforces&color=blue&labelColor=black)](https://codeforces.com/profile/iAnujVarshney)
 [![CodeChef](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=Codechef&logoColor=red&labelColor=black)](https://www.codechef.com/users/anuj_879)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/ianujvarshney)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=4dcb72&labelColor=black)](https://auth.geeksforgeeks.org/user/ianujvarshney/profile)
