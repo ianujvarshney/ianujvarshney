@@ -149,4 +149,4 @@ Skill:
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a  href="https://www.buymeacoffee.com/ianujvarshney"><img style="border:1px solid white; border-radius:5px;" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ianujvarshney&button_colour=&font_colour=ffffff&font_family=Lato&outline_colour=&coffee_colour=FFDD00"></a></p><br><br>
+<p><a  style="border:1px solid white;" href="https://www.buymeacoffee.com/ianujvarshney"><img style="border:1px solid white; border-radius:5px;" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ianujvarshney&button_colour=&font_colour=ffffff&font_family=Lato&outline_colour=&coffee_colour=FFDD00"></a></p><br><br>
