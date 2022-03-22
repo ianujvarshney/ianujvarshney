@@ -136,7 +136,7 @@ Skill:
 
 ## Connect with me
 
-<a href="https://linkedin.com/in/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianujvarshney" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ianujvarshney" target="blank"><img align="center" src="" alt="ianujvarshney" height="30" width="40" /></a>
 <a href="https://fb.com/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianujvarshney" height="30" width="40" /></a>
 <a href="https://twitter.com/ianujvarshney" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianujvarshney" height="30" width="40" /></a>
 <a href="https://instagram.com/ianujvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianujvarshney" height="30" width="40" /></a>
@@ -149,4 +149,4 @@ Skill:
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a  style="border:1px solid white;" href="https://www.buymeacoffee.com/ianujvarshney"><img style="border:1px solid white; border-radius:5px;" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ianujvarshney&button_colour=&font_colour=ffffff&font_family=Lato&outline_colour=&coffee_colour=FFDD00"></a></p><br><br>
+<p ><a href="https://www.buymeacoffee.com/ianujvarshney"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ianujvarshney&button_colour=7D2CDD&font_colour=ffffff&font_family=Lato&outline_colour=FFDD00&coffee_colour=FFDD00"></a></p><br><br>
