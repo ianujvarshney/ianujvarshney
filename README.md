@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Stack Overflow**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/ianujvarshney?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[Portfolio](anujvarshney.me)**
 
 - 📝 I sometimes write articles on **[Blog Website]()**
 
