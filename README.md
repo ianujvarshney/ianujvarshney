@@ -46,9 +46,7 @@ Find me on Coding Platforms:
 <br>
 <h2 align=left>
 <img src="skills.png" height="50" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Skill:
-<br></h2>
+Skill:</h2>
 
 <table>
 <tr>
