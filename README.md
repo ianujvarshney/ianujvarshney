@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **[Contact Me](anujkk1911997@gmail.com)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZkcUyJNMkTucBelLNaxMmFsnhpmcmRGn/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/18bDeogUQWfTqKb21ELIU_us5IYSONTMc/view?usp=sharing)**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
