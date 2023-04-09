@@ -64,6 +64,8 @@ Skill:</h2>
 <td><h4>Front-end Development</h4></td>
 <td>
     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
+     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&labelColor=black&color=764abc"/></a>
+     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&labelColor=black&color=white"/></a>
     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src=" https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=7ddfff"/></a>
 <a href="https://github.com/search?q=user%3Aianujvarshney+language%3ACSS&type=Code"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
