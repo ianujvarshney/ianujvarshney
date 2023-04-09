@@ -51,16 +51,20 @@ Skill:</h2>
 <table>
 <tr>
 <td><h4>Programming Languages</h4></td>
-<td><a href="https://github.com/search?q=user%3Aianujvarshney+language%3AC%2B%2B"><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/></a>  
-<a href="https://github.com/search?q=ianujvarshney%2Fc"><img src="https://img.shields.io/badge/C Language-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /></a>
+<td>
+ 
+<!--   <a href="https://github.com/search?q=ianujvarshney%2Fc"><img src="https://img.shields.io/badge/C Language-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /></a>
 <a href="https://github.com/search?q=user%3Aianujvarshney+language%3Apython"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab" /></a>    
-<a href="https://github.com/search?q=user%3Aianujvarshney+language%3Ajava"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>  
+<a href="https://github.com/search?q=user%3Aianujvarshney+language%3Ajava"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>   -->
 <a href="https://github.com/search?q=user%3Aianujvarshney+language%3Ajavascript"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200" /></a>
+     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AC%2B%2B"><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/></a>  
 </td></tr>
 
 <tr>
 <td><h4>Front-end Development</h4></td>
-<td><a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
+<td>
+    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
+    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src=" https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=7ddfff"/></a>
 <a href="https://github.com/search?q=user%3Aianujvarshney+language%3ACSS&type=Code"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
 <a href="https://github.com/search?p=4&q=user%3Aianujvarshney+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/>
@@ -82,7 +86,7 @@ Skill:</h2>
 
 <td>
 <a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>  
+<!-- <a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>   -->
 <a href="#"><img src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=orange"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/></a>
@@ -92,15 +96,16 @@ Skill:</h2>
 </td>
   </tr>
 
-<tr>
-<td><h4>Machine/Deep Learning</h4></td>
+<!-- <tr>
+<td>
+    <h4>Machine/Deep Learning</h4></td>
 <td> 
 <a href="#"><img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&labelColor=001921&color=013243"/></a> 
 <a href="#"><img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&labelColor=0c0234&color=150458"/></a>  
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&labelColor=141819&color=FF6F00"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Skikit%20Learn-orange?style=for-the-badge&logo=scikit%2Dlearn&labelColor=141819&color=F7931E"/></a>
 
-<tr>
+<tr> -->
 <!--<td><h4>Miscellaneous</h4></td>
 <td><a href="#"><img src="https://img.shields.io/badge/Ardu ino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr> -->
 </table>
@@ -122,7 +127,7 @@ Skill:</h2>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <details>
 <summary>Detailed Summary</summary>
