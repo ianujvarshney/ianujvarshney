@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anuj</h1>
 <h3 align="center"> A passionate MERN Stack developer from India</h3>
-<p> <a href="http://twitter.com/ianujvarshney">
+<!-- <p> <a href="http://twitter.com/ianujvarshney">
     <img src="https://img.shields.io/twitter/follow/ianujvarshney?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
-  </p>
+  </p> -->
 
 ## 🙋‍♂️ About Me
 
