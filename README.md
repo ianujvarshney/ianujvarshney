@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://www.anujvarshney.me"><img alt="" src="Cover.png" width="100%" height="100%" /></a>
+<!-- <a href="https://www.anujvarshney.me"><img alt="" src="Cover.png" width="100%" height="100%" /></a> -->
 </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianujvarshney" alt="ianujvarshney" /></a> </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anuj</h1>
 <h3 align="center"> A passionate MERN Stack developer from India</h3>
 <!-- <p> <a href="http://twitter.com/ianujvarshney">
