@@ -23,7 +23,7 @@
 
 - 📝 I sometimes write articles on **[Blog Website]()**
 
-- 💬 Ask me about **react,js, node.js, express.js, nuxt.js, mongoDB**
+- 💬 Ask me about **react,js, next.js, node.js, express.js, mongoDB**
 
 - 📫 How to reach me **[Contact Me](anujkk1911997@gmail.com)**
 
@@ -64,13 +64,13 @@ Skill:</h2>
 <td><h4>Front-end Development</h4></td>
 <td>
     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
+    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
      <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&labelColor=black&color=764abc"/></a>
      <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&labelColor=black&color=white"/></a>
     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src=" https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=7ddfff"/></a>
 <a href="https://github.com/search?q=user%3Aianujvarshney+language%3ACSS&type=Code"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
 <a href="https://github.com/search?p=4&q=user%3Aianujvarshney+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/>
-<a href="https://github.com/search?p=4&q=user%3Aianujvarshney+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&labelColor=0c0234&color=150458"/>
 
 <a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
 
