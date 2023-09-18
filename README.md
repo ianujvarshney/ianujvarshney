@@ -4,12 +4,63 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianujvarshney" alt="ianujvarshney" /></a> </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anuj</h1>
 <h3 align="center"> A passionate MERN Stack developer from India</h3>
-<!-- <p> <a href="http://twitter.com/ianujvarshney">
+
+<h2> 💻 Tech Stack</h2>
+<p align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&labelColor=black&color=764abc"/>
+<img alt="CPP" src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&labelColor=black&color=white"/>
+<img alt="ReactJS" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=7ddfff"/>
+<img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
+<img alt="ExpressJS" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/>
+<img alt="sublimetext" src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=orange"/>
+<img alt="Github" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/>
+<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/>
+<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/>
+<img alt="NodeJs" src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/>
+<img alt="postman" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/>
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
+<img alt="VsCode" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&labelColor=00497a&color=007ACC"/>
+<img alt="git" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/>
+  </p>
+<br>
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/ianujvarshney/)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-da8200?style=for-the-badge&logo=Codeforces&color=blue&labelColor=black)](https://codeforces.com/profile/iAnujVarshney)
+[![CodeChef](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=Codechef&logoColor=red&labelColor=black)](https://www.codechef.com/users/anuj_879)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/ianujvarshney)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=4dcb72&labelColor=black)](https://auth.geeksforgeeks.org/user/ianujvarshney/profile)
+
+
+
+<br><br>
+
+<p align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=ianujvarshney&theme=black-ice&hide_border=true">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuj's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ianujvarshney&theme=black-ice&hide_border=true"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/ianujvarshney/github-readme-stats"><img alt="Anuj Varshney's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ianujvarshney&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Anuj Varshney's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<!-- <a href="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+ <!--<p> <a href="http://twitter.com/ianujvarshney">
     <img src="https://img.shields.io/twitter/follow/ianujvarshney?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
-  </p> -->
-
-## 🙋‍♂️ About Me
+  </p>
+  🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Portfolio Builing**
 
@@ -30,19 +81,6 @@
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/18bDeogUQWfTqKb21ELIU_us5IYSONTMc/view?usp=sharing)**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
-
-<br>
-<h2 align=left>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Find me on Coding Platforms:
-<br></h2>
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/ianujvarshney/)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-da8200?style=for-the-badge&logo=Codeforces&color=blue&labelColor=black)](https://codeforces.com/profile/iAnujVarshney)
-[![CodeChef](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=Codechef&logoColor=red&labelColor=black)](https://www.codechef.com/users/anuj_879)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/ianujvarshney)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=4dcb72&labelColor=black)](https://auth.geeksforgeeks.org/user/ianujvarshney/profile)
-
 <br>
 <h2 align=left>
 <img src="skills.png" height="50" width= auto>
@@ -55,45 +93,44 @@ Skill:</h2>
  
 <!--   <a href="https://github.com/search?q=ianujvarshney%2Fc"><img src="https://img.shields.io/badge/C Language-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /></a>
 <a href="https://github.com/search?q=user%3Aianujvarshney+language%3Apython"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab" /></a>    
-<a href="https://github.com/search?q=user%3Aianujvarshney+language%3Ajava"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>   -->
-<a href="https://github.com/search?q=user%3Aianujvarshney+language%3Ajavascript"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200" /></a>
-     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AC%2B%2B"><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/></a>  
+<a href="https://github.com/search?q=user%3Aianujvarshney+language%3Ajava"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>  
+<a href="https://github.com/search?q=user%3Aianujvarshney+language%3Ajavascript"><img src="" /></a>
+     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AC%2B%2B"</a>  
 </td></tr>
 
 <tr>
 <td><h4>Front-end Development</h4></td>
 <td>
-    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
-    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
-     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&labelColor=black&color=764abc"/></a>
-     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&labelColor=black&color=white"/></a>
-    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"><img src=" https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=7ddfff"/></a>
-<a href="https://github.com/search?q=user%3Aianujvarshney+language%3ACSS&type=Code"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
-<a href="https://github.com/search?p=4&q=user%3Aianujvarshney+language%3AJavaScript&type=Code"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/>
+    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"></a>
+     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"></a>
+     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"></a>
+    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"></a>
+<a href="https://github.com/search?q=user%3Aianujvarshney+language%3ACSS&type=Code"></a>
+<a href="#"></a>
 
-<a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
 
-<!--
-<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a></td></tr> -->
+<a href="#"></a>
+
+
+<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a></td></tr> 
 
 <tr>
 <td><h4>Backend Development & Database</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/></a></td></tr>
+<td><a href="#"></a>
+<a href="#"></a>
+<a href="#"></a></td></tr>
 
 <tr>
 <td><h4>Tools</h4></td>
 
 <td>
-<a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>  
-<!-- <a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>   -->
-<a href="#"><img src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=orange"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a>
+<a href="#"></a>  
+<a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>   
+<a href="#"></a>  
+<a href="#"></a>
+<a href="#"></a>
+<a href="#"></a>
+<a href="#"></a>
 
 </td>
   </tr>
@@ -109,27 +146,11 @@ Skill:</h2>
 
 <tr> -->
 <!--<td><h4>Miscellaneous</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Ardu ino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr> -->
+<td><a href="#"><img src="https://img.shields.io/badge/Ardu ino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr> 
 </table>
-
-<br><br>
-
-<p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=ianujvarshney&theme=black-ice&hide_border=true">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuj's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ianujvarshney&theme=black-ice&hide_border=true"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/ianujvarshney/github-readme-stats"><img alt="Anuj Varshney's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ianujvarshney&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Anuj Varshney's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<!-- <a href="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<br>
+<h2 align=left>
+&nbsp;&nbsp;&nbsp;&nbsp;-->
 
 <details>
 <summary>Detailed Summary</summary>
