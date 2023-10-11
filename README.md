@@ -6,7 +6,7 @@
 <br>
 <!-- I'm deeply passionate about Open Source, Communities, and I'm actively working on my **[Open Source side projects](https://github.com/ianujvarshney?tab=repositories)** . I'm available for threads, twitter, , and workshops. -->
 
-  If you're looking for a web developer, consider hiring me ➡ [Portfolio](https://www.biodrop.io/ianujvarshney)
+  If you're looking for a web developer, consider hiring me ➡ [Portfolio](https://www.anujvarshney.live/)
 </div>
 
 
