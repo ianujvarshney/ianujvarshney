@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.anujvarshney.me"><img alt="" src="Cover.png" width="100%" height="100%" /></a>
+<!--   <a href="https://www.anujvarshney.me"><img alt="" src="Cover.png" width="100%" height="100%" /></a> -->
 </p>
 <div align="center">
     Diving into React.js Mastery with Next.js ✨ | Simultaneously Giving Back to Open Source Projects | Setting Out on a Node.js Learning Adventure 🌿 🚀
