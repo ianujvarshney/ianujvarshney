@@ -10,41 +10,47 @@
 </div>
 
 
-<h2> 👨‍💻 Tech Stack</h2>
+## 👨‍💻 Tech Stack
+
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&labelColor=black&color=764abc"/>
-<img alt="CPP" src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&labelColor=black&color=white"/>
-<img alt="ReactJS" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=7ddfff"/>
-<img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/>
-<img alt="sublimetext" src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=orange"/>
-<img alt="Github" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/>
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/>
-<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/>
-<img alt="NodeJs" src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/>
-<img alt="postman" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/>
-<img alt="Heroku" src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
-<img alt="VsCode" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&labelColor=00497a&color=007ACC"/>
-<img alt="git" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/>
-  </p>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200"/>
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&labelColor=black&color=764abc"/>
+    <img alt="CPP" src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/>
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&labelColor=black&color=white"/>
+    <img alt="ReactJS" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=7ddfff"/>
+    <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
+    <img alt="ExpressJS" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/>
+    <img alt="sublimetext" src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=orange"/>
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/>
+    <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/>
+    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/>
+    <img alt="NodeJs" src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/>
+    <img alt="postman" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/>
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/>
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
+    <img alt="VsCode" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&labelColor=00497a&color=007ACC"/>
+    <img alt="git" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/>
+</p>
 <br>
+
 
 <br><br>
 
 ## My GitHub Stats 📈
 
-  <br/>
-   <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianujvarshney" alt="ianujvarshney" /></a>
+<br/>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ianujvarshney" alt="ianujvarshney" />
+  </a>
 </p>
-  <br/>
-  
+
+<br/>
+
 
   <details>
 <summary>Detailed Summary</summary>
