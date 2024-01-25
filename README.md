@@ -1,188 +1,28 @@
-<p align="center">
-<!--   <a href="https://www.anujvarshney.me"><img alt="" src="Cover.png" width="100%" height="100%" /></a> -->
-</p>
-<div align="center">
-    Diving into React.js Mastery with Next.js ✨ | Simultaneously Giving Back to Open Source Projects | Setting Out on a Node.js Learning Adventure 🌿 🚀
-<br>
-<!-- I'm deeply passionate about Open Source, Communities, and I'm actively working on my **[Open Source side projects](https://github.com/ianujvarshney?tab=repositories)** . I'm available for threads, twitter, , and workshops. -->
 
-  If you're looking for a web developer, consider hiring me ➡ [Portfolio](https://www.anujvarshney.live/)
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ianujvarshney) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ianujvarshney) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ianujvarshney) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianujvarshney) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ianujvarshney) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ianujvarshney) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ianujvarshney) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ianujvarshney&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ianujvarshney&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 👨‍💻 Tech Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<p align="center">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200"/>
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&labelColor=black&color=764abc"/>
-    <img alt="CPP" src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/>
-    <img alt="Firebase" src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&labelColor=black&color=white"/>
-    <img alt="ReactJS" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=7ddfff"/>
-    <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
-    <img alt="ExpressJS" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/>
-    <img alt="sublimetext" src="https://img.shields.io/badge/Sublime-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=orange"/>
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/>
-    <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/>
-    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/>
-    <img alt="NodeJs" src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/>
-    <img alt="postman" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/>
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-180036?style=for-the-badge&logo=heroku&labelColor=180036&color=430098"/>
-    <img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
-    <img alt="VsCode" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&labelColor=00497a&color=007ACC"/>
-    <img alt="git" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/>
-</p>
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ianujvarshney&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<br><br>
+---
+[![](https://visitcount.itsvg.in/api?id=ianujvarshney&icon=0&color=6)](https://visitcount.itsvg.in)
 
-## My GitHub Stats 📈
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ianujvarshney) 
 
-<br/>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ianujvarshney" alt="ianujvarshney" />
-  </a>
-</p>
-
-<br/>
-
-
-  <details>
-<summary>Detailed Summary</summary>
-<br>
-
-![Metrics](https://metrics.lecoq.io/ianujvarshney?template=classic&repositories.forks=true&isocalendar=1&languages=1&introduction=1&habits=1&stars=1&topics=1&reactions=1&people=1&gists=1&followup=1&lines=1&traffic=1&stargazers=1&projects=1&achievements=1&activity=1&discussions=1&support=1&repositories=1&notable=1&skyline=1&pagespeed=1&stackoverflow=1&anilist=1&tweets=1&music=1&posts=1&rss=1&wakatime=1&stock=1&screenshot=1&nightscout=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&stars.limit=4&topics.mode=starred&topics.sort=stars&topics.limit=15&reactions.limit=200&reactions.limit.issues=100&reactions.days=0&reactions.display=absolute&reactions.ignored=github-actions%5Bbot%5D%2C%20dependabot%5Bbot%5D%2C%20dependabot-preview%5Bbot%5D&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=34&notable.repositories=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&music.limit=13&music.played.at=false&music.user=.user.login&tweets.attachments=true&tweets.limit=2&tweets.user=ianujvarshney&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&anilist.user=.user.login&stackoverflow.user=1&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=6&stackoverflow.lines=4&stackoverflow.lines.snippet=6&posts.source=dev.to&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&rss.limit=4&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&stock.duration=5d&stock.interval=5m&screenshot.title=Screenshot&screenshot.selector=body&screenshot.background=true&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Asia%2FCalcutta&config.twemoji=true)
-
-</details>
-
-
-## Connect with me
-
-<a href="https://linkedin.com/in/ianujvarshney" target="blank"><img align="center" src="images/linkedin.png" alt="ianujvarshney" height="40" width="40" /></a>
-<a href="https://fb.com/ianujvarshney" target="blank"><img align="center" src="/images/facebook.png" alt="ianujvarshney" height="40" width="40" /></a>
-<a href="https://twitter.com/ianujvarshney" target="blank"> <img align="center" src="images/twitter.png" alt="ianujvarshney" height="40" width="40" /></a>
-<a href="https://instagram.com/ianujvarshney" target="blank"><img align="center" src="/images/instagram.png" alt="ianujvarshney" height="40" width="40" /></a>
-
-<!--## Views and Followers
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Profile Views&color=blue&style=for-the-badge" alt="Anuj's" />
-  <a href="https://github.com/ianujvarshney?tab=followers"><img src="https://img.shields.io/github/followers/ianujvarshney?label=Followers&&style=for-the-badge" alt="GitHub Badge"></a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p ><a href="https://www.buymeacoffee.com/ianujvarshney"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ianujvarshney&button_colour=000000&font_colour=ffffff&font_family=Lato&outline_colour=FFDD00&coffee_colour=FFDD00"></a></p><br><br> -->
-
-<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
-
-<!-- [![@susmitadey's Holopin board](https://holopin.me/susmitadey)](https://holopin.io/@susmitadey) -->
-<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anuj</h1> -->
-<!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
-
-<!-- <a href="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ianujvarshney&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
- <!--<p> <a href="http://twitter.com/ianujvarshney">
-    <img src="https://img.shields.io/twitter/follow/ianujvarshney?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-  </a>
-  </p>
-  🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Portfolio Builing**
-
-- 🌱 I’m currently learning **Languages, Framework, Library**
-
-- 👯 I’m looking to collaborate on **Open Source Contribution**
-
-- 🤝 I’m looking for help with **Stack Overflow**
-
-- 👨‍💻 All of my projects are available at **[Portfolio](https://anujvarshney.me/)**
-
-- 📝 I sometimes write articles on **[Blog Website]()**
-
-- 💬 Ask me about **react,js, next.js, node.js, express.js, mongoDB**
-
-- 📫 How to reach me **[Contact Me](anujkk1911997@gmail.com)**
-
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/18bDeogUQWfTqKb21ELIU_us5IYSONTMc/view?usp=sharing)**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-<br>
-<h2 align=left>
-<img src="skills.png" height="50" width= auto>
-Skill:</h2>
-
-<table>
-<tr>
-<td><h4>Programming Languages</h4></td>
-<td>
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/ianujvarshney/)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-da8200?style=for-the-badge&logo=Codeforces&color=blue&labelColor=black)](https://codeforces.com/profile/iAnujVarshney)
-[![CodeChef](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=Codechef&logoColor=red&labelColor=black)](https://www.codechef.com/users/anuj_879)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/ianujvarshney)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=4dcb72&labelColor=black)](https://auth.geeksforgeeks.org/user/ianujvarshney/profile)
- 
-<!--   <a href="https://github.com/search?q=ianujvarshney%2Fc"><img src="https://img.shields.io/badge/C Language-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /></a>
-<a href="https://github.com/search?q=user%3Aianujvarshney+language%3Apython"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=3776ab" /></a>    
-<a href="https://github.com/search?q=user%3Aianujvarshney+language%3Ajava"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>  
-<a href="https://github.com/search?q=user%3Aianujvarshney+language%3Ajavascript"><img src="" /></a>
-     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AC%2B%2B"</a>  
-</td></tr>
-
-<tr>
-<td><h4>Front-end Development</h4></td>
-<td>
-    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"></a>
-     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"></a>
-     <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"></a>
-    <a href="https://github.com/search?q=user%3Aianujvarshney+language%3AHTML&type=Code"></a>
-<a href="https://github.com/search?q=user%3Aianujvarshney+language%3ACSS&type=Code"></a>
-<a href="#"></a>
-
-
-<a href="#"></a>
-
-
-<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a></td></tr> 
-
-<tr>
-<td><h4>Backend Development & Database</h4></td>
-<td><a href="#"></a>
-<a href="#"></a>
-<a href="#"></a></td></tr>
-
-<tr>
-<td><h4>Tools</h4></td>
-
-<td>
-<a href="#"></a>  
-<a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=for-the-badge&logo=eclipse%20IDE&labelColor=1a1433&color=2C2255"/></a>   
-<a href="#"></a>  
-<a href="#"></a>
-<a href="#"></a>
-<a href="#"></a>
-<a href="#"></a>
-
-</td>
-  </tr>
-
-<!-- <tr>
-<td>
-    <h4>Machine/Deep Learning</h4></td>
-<td> 
-<a href="#"><img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&labelColor=001921&color=013243"/></a> 
-<a href="#"><img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&labelColor=0c0234&color=150458"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&labelColor=141819&color=FF6F00"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Skikit%20Learn-orange?style=for-the-badge&logo=scikit%2Dlearn&labelColor=141819&color=F7931E"/></a>
-
-<tr> -->
-<!--<td><h4>Miscellaneous</h4></td>
-<td><a href="#"><img src="https://img.shields.io/badge/Ardu ino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/></a><a href="#"><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/></a><a href="#"><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></a></td></tr> 
-</table>
-<br>
-<h2 align=left>
-&nbsp;&nbsp;&nbsp;&nbsp;-->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
