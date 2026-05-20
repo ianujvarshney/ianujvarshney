@@ -1,34 +1,139 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ianujvarshney) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ianujvarshney) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ianujvarshney) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianujvarshney) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ianujvarshney) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ianujvarshney) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ianujvarshney) 
+# Anuj Varshney
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-2F2F2F.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Infura](https://img.shields.io/badge/Infura-F50C2C.svg?style=for-the-badge&logo=infura&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-FF5C16.svg?style=for-the-badge&logo=metamask&logoColor=white)
-![TronLink](https://img.shields.io/badge/TronLink-2E64FE.svg?style=for-the-badge&logo=tronlink&logoColor=white)
-![Trust Wallet](https://img.shields.io/badge/Trust%20Wallet-3375BB.svg?style=for-the-badge&logo=trustwallet&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ianujvarshney&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ianujvarshney&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Full-Stack Developer | Web3 Builder | Frontend-Focused Product Engineer
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+I build clean, scalable digital products across modern web, mobile, cloud, and blockchain ecosystems.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ianujvarshney&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<p>
+  <a href="https://github.com/ianujvarshney?tab=followers">
+    <img src="https://img.shields.io/github/followers/ianujvarshney?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ianujvarshney&icon=0&color=6" alt="Profile views" />
+  </a>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/ianujvarshney">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ianujvarshney">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://youtube.com/@ianujvarshney">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://stackoverflow.com/users/ianujvarshney">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ianujvarshney&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ianujvarshney) 
+## About
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I work across the product engineering stack, with a strong focus on responsive interfaces, reliable frontend architecture, API-driven applications, and Web3 integrations. My GitHub is where I explore, ship, and refine projects using practical tools that scale from prototype to production.
+
+- Building with **React, Next.js, TypeScript, Node.js, Firebase, MongoDB, and Web3**
+- Comfortable across **frontend systems, mobile UI, cloud deployment, and blockchain tooling**
+- Interested in **open-source collaboration, product-led engineering, and developer communities**
+- Active across GitHub, LinkedIn, X, YouTube, Stack Overflow, Instagram, Facebook, and Discord
+
+## Tech Stack
+
+### Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,sass,tailwind,bootstrap" alt="Core technologies" />
+</p>
+
+### Frontend & Product
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux,vite,webpack,figma,wordpress,react" alt="Frontend and product tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
+### Backend, Cloud & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase,aws,docker,nginx,vercel,npm,pnpm,yarn" alt="Backend, cloud, and tooling" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+</p>
+
+### Web3
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="ethers.js" />
+  <img src="https://img.shields.io/badge/Web3.js-2F2F2F?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Infura-F50C2C?style=flat-square&logo=infura&logoColor=white" alt="Infura" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white" alt="MetaMask" />
+  <img src="https://img.shields.io/badge/Trust%20Wallet-3375BB?style=flat-square&logo=trustwallet&logoColor=white" alt="Trust Wallet" />
+  <img src="https://img.shields.io/badge/TronLink-2E64FE?style=flat-square&logo=tron&logoColor=white" alt="TronLink" />
+</p>
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,md" alt="Languages" />
+</p>
+
+## GitHub Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ianujvarshney&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" alt="Anuj Varshney's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&theme=github_dark&hide_border=true&layout=compact" alt="Anuj Varshney's top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianujvarshney&theme=github-dark-blue&hide_border=true" alt="Anuj Varshney's GitHub streak" />
+
+</div>
+
+## Contribution Focus
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=ianujvarshney&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
+
+</div>
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/ianujvarshney">LinkedIn</a> ·
+  <a href="https://x.com/ianujvarshney">X</a> ·
+  <a href="https://youtube.com/@ianujvarshney">YouTube</a> ·
+  <a href="https://stackoverflow.com/users/ianujvarshney">Stack Overflow</a> ·
+  <a href="https://instagram.com/ianujvarshney">Instagram</a> ·
+  <a href="https://facebook.com/ianujvarshney">Facebook</a> ·
+  <a href="https://discord.gg/ianujvarshney">Discord</a>
+</p>
+
+<p>
+  <a href="https://buymeacoffee.com/ianujvarshney">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
+  </a>
+</p>
