@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> <img src="https://github.com/ianujvarshney/ianujvarshney/blob/main/banner.png">&nbsp;&nbsp;</div>
 
 # Anuj Varshney
 
