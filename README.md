@@ -1,139 +1,177 @@
-<div align="center"> <img src="https://github.com/ianujvarshney/ianujvarshney/blob/main/banner.png">&nbsp;&nbsp;</div>
+<div align="center">
+  <img src="https://github.com/ianujvarshney/ianujvarshney/blob/main/banner.png" alt="Anuj Varshney Banner" />
+</div>
 
-# Anuj Varshney
-
-### Full-Stack Developer | Web3 Builder | Frontend-Focused Product Engineer
-
-I build clean, scalable digital products across modern web, mobile, cloud, and blockchain ecosystems.
-
-<p>
-  <a href="https://github.com/ianujvarshney?tab=followers">
-    <img src="https://img.shields.io/github/followers/ianujvarshney?label=Follow&style=social" alt="GitHub followers" />
+<p align="center">
+  <a href="https://anuj-varshney.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ianujvarshney&icon=0&color=6" alt="Profile views" />
-  </a>
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/ianujvarshney">
+  <a href="https://linkedin.com/in/ianujvarshney" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/ianujvarshney">
+  <a href="https://github.com/ianujvarshney" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/ianujvarshney" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://youtube.com/@ianujvarshney">
+  <a href="https://youtube.com/@ianujvarshney" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://stackoverflow.com/users/ianujvarshney">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  <a href="mailto:Anuj.varshneyg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+##
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=FFFFFF&center=true&vCenter=true&width=820&height=56&lines=Hi%2C+I'm+Anuj+Varshney;Senior+Full-Stack+Engineer;MERN+%7C+Next.js+%7C+Web3+%7C+Realtime+Systems" alt="Typing headline" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/ianujvarshney" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ianujvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/ianujvarshney?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/ianujvarshney?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
 ---
 
-## About
+## ⭐ Key Highlights 🎯
 
-I work across the product engineering stack, with a strong focus on responsive interfaces, reliable frontend architecture, API-driven applications, and Web3 integrations. My GitHub is where I explore, ship, and refine projects using practical tools that scale from prototype to production.
+| Product Engineering | Backend, Realtime & Web3 |
+| --- | --- |
+| Build scalable MERN and Next.js applications with clean UI systems | Design APIs, auth flows, and realtime services with Node.js, Express, Redis, PostgreSQL, MongoDB, and WebSockets |
+| Experienced with responsive frontend architecture, reusable components, and production-ready dashboards | Work on market data pipelines, order management systems, smart contract integrations, and wallet-connected DApps |
+| Delivered client and SaaS projects across React, cloud, blockchain, and business platforms | Focused on secure authentication, performance optimization, code quality, and reliable deployment workflows |
 
-- Building with **React, Next.js, TypeScript, Node.js, Firebase, MongoDB, and Web3**
-- Comfortable across **frontend systems, mobile UI, cloud deployment, and blockchain tooling**
-- Interested in **open-source collaboration, product-led engineering, and developer communities**
-- Active across GitHub, LinkedIn, X, YouTube, Stack Overflow, Instagram, Facebook, and Discord
+---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-### Core
+- 🔭 Currently building production systems as a **Full Stack Developer at Inriser Consulting Private Limited**
+- ⚙️ Working across **market data systems, OMS platforms, admin APIs, WebSockets, Redis, PostgreSQL, TimescaleDB, and AWS**
+- 🌐 Previously built **DApps and MERN products** with **Next.js, TypeScript, GraphQL, Solidity, Web3.js, Ethers.js, Wagmi, MetaMask, and WalletConnect**
+- 🧩 Strong with **React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, Redis, Docker, Firebase, and AWS**
+- 🏆 5-Star C++ coder on HackerRank, 200+ DSA problems solved across Codeforces and CodeChef, and Hacktoberfest 2020 open-source contributor
+- 📫 Reach me at **Anuj.varshneyg@gmail.com**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,sass,tailwind,bootstrap" alt="Core technologies" />
-</p>
+---
 
-### Frontend & Product
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" alt="Code icon"> Tech I Use 💻
 
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,vite,webpack,figma,wordpress,react" alt="Frontend and product tools" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="52" height="52" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React" /><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="52" height="52" alt="Next.js" /><br>Next.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="52" height="52" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="52" height="52" alt="Express.js" /><br>Express.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="52" height="52" alt="MongoDB" /><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL" /><br>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="52" height="52" alt="Redis" /><br>Redis</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="52" height="52" alt="GraphQL" /><br>GraphQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" alt="Tailwind CSS" /><br>Tailwind</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="52" height="52" alt="Redux" /><br>Redux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="52" height="52" alt="Firebase" /><br>Firebase</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="52" height="52" alt="AWS" /><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker" /><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="52" height="52" alt="Nginx" /><br>Nginx</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=solidity" width="52" height="52" alt="Solidity" /><br>Solidity</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML" /><br>HTML</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS" /><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" width="52" height="52" alt="Sass" /><br>Sass</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="52" height="52" alt="Bootstrap" /><br>Bootstrap</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="52" height="52" alt="Figma" /><br>Figma</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git" /><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub" /><br>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python" /><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="52" height="52" alt="C++" /><br>C++</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="52" height="52" alt="C" /><br>C</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="52" height="52" alt="Postman" /><br>Postman</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code" /><br>VS Code</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="52" height="52" alt="Vercel" /><br>Vercel</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="52" height="52" alt="WordPress" /><br>WordPress</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="52" height="52" alt="NPM" /><br>NPM</td>
+  </tr>
+</table>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="Styled Components" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-</p>
-
-### Backend, Cloud & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase,aws,docker,nginx,vercel,npm,pnpm,yarn" alt="Backend, cloud, and tooling" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-</p>
-
-### Web3
-
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="ethers.js" />
-  <img src="https://img.shields.io/badge/Web3.js-2F2F2F?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Infura-F50C2C?style=flat-square&logo=infura&logoColor=white" alt="Infura" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=111827" alt="TimescaleDB" />
+  <img src="https://img.shields.io/badge/Wagmi-111827?style=flat-square&logo=ethereum&logoColor=white" alt="Wagmi" />
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=111827" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" alt="WalletConnect" />
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white" alt="MetaMask" />
-  <img src="https://img.shields.io/badge/Trust%20Wallet-3375BB?style=flat-square&logo=trustwallet&logoColor=white" alt="Trust Wallet" />
-  <img src="https://img.shields.io/badge/TronLink-2E64FE?style=flat-square&logo=tron&logoColor=white" alt="TronLink" />
 </p>
 
-### Languages
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,md" alt="Languages" />
+## 🚀 Featured Work
+
+| Project | Stack / Focus | Link |
+| --- | --- | --- |
+| **RONX** | Next.js, smart-contract powered finance experience | [Visit](https://anuj-varshney.vercel.app/) |
+| **TEMPO** | React event creation platform | [Visit](https://tempo.live/) |
+| **IQUINCESOFT** | React company web application | [Visit](https://iquincesoft.com/) |
+| **CARITAS REVOLUTION** | React charity revolution platform | [Visit](https://caritasrevolution.org/) |
+
+---
+
+## 💼 Experience Snapshot
+
+| Role | Company | Focus |
+| --- | --- | --- |
+| **Full Stack Developer** | Inriser Consulting Private Limited | Realtime market data, OMS architecture, PostgreSQL, TimescaleDB, Redis, WebSockets, secure admin APIs |
+| **MERN Stack Developer / Blockchain Enthusiast** | All Digital | DApps, Next.js, TypeScript, GraphQL, Web3.js, Solidity, Hardhat, wallet integrations |
+| **MERN Stack Developer** | QHR Solution | SaaS APIs, MongoDB optimization, authentication, product workflows, performance improvements |
+| **React Developer** | iQuincesoft Pvt Ltd. | Client projects, reusable React components, responsive UI delivery |
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianujvarshney&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Anuj Varshney GitHub streak" />
 </p>
 
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ianujvarshney&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" alt="Anuj Varshney's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&theme=github_dark&hide_border=true&layout=compact" alt="Anuj Varshney's top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianujvarshney&theme=github-dark-blue&hide_border=true" alt="Anuj Varshney's GitHub streak" />
-
-</div>
-
-## Contribution Focus
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ianujvarshney&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
-
-</div>
-
-## Connect
-
-<p>
-  <a href="https://linkedin.com/in/ianujvarshney">LinkedIn</a> ·
-  <a href="https://x.com/ianujvarshney">X</a> ·
-  <a href="https://youtube.com/@ianujvarshney">YouTube</a> ·
-  <a href="https://stackoverflow.com/users/ianujvarshney">Stack Overflow</a> ·
-  <a href="https://instagram.com/ianujvarshney">Instagram</a> ·
-  <a href="https://facebook.com/ianujvarshney">Facebook</a> ·
-  <a href="https://discord.gg/ianujvarshney">Discord</a>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ianujvarshney&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Anuj Varshney GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Anuj Varshney top languages" />
 </p>
 
-<p>
-  <a href="https://buymeacoffee.com/ianujvarshney">
+![Anuj Varshney's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ianujvarshney&theme=github-compact&area=true&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ianujvarshney" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://x.com/ianujvarshney" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+  <a href="https://youtube.com/@ianujvarshney" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/ianujvarshney" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://instagram.com/ianujvarshney" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://facebook.com/ianujvarshney" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://discord.gg/ianujvarshney" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/ianujvarshney" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
   </a>
 </p>
