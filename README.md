@@ -104,20 +104,21 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="52" height="52" alt="WordPress" /><br>WordPress</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="52" height="52" alt="NPM" /><br>NPM</td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React Native" /><br>React Native</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="52" height="52" alt="React Query" /><br>React Query</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="52" height="52" alt="React Hook Form" /><br>React Hook Form</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="52" height="52" alt="Socket.io" /><br>Socket.io</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/timescale/FDB515" width="52" height="52" alt="TimescaleDB" /><br>TimescaleDB</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/wagmi/111827" width="52" height="52" alt="Wagmi" /><br>Wagmi</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/ethers/2535A0" width="52" height="52" alt="Ethers.js" /><br>Ethers.js</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/hardhat/FFF100" width="52" height="52" alt="Hardhat" /><br>Hardhat</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/walletconnect/3B99FC" width="52" height="52" alt="WalletConnect" /><br>WalletConnect</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/metamask/F6851B" width="52" height="52" alt="MetaMask" /><br>MetaMask</td>
+  </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=111827" alt="TimescaleDB" />
-  <img src="https://img.shields.io/badge/Wagmi-111827?style=flat-square&logo=ethereum&logoColor=white" alt="Wagmi" />
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=111827" alt="Hardhat" />
-  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" alt="WalletConnect" />
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white" alt="MetaMask" />
-</p>
 
 ---
 
