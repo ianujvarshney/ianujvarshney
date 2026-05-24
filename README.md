@@ -108,15 +108,15 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React Native" /><br>React Native</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="52" height="52" alt="React Query" /><br>React Query</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="52" height="52" alt="React Hook Form" /><br>React Hook Form</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="52" height="52" alt="Socket.io" /><br>Socket.io</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=socketio&theme=light" width="52" height="52" alt="Socket.io" /><br>Socket.io</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/timescale/FDB515" width="52" height="52" alt="TimescaleDB" /><br>TimescaleDB</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/wagmi/111827" width="52" height="52" alt="Wagmi" /><br>Wagmi</td>
+    <td align="center" width="96"><img src="https://logo.svgcdn.com/token-branded/wagmi.png" width="52" height="52" alt="Wagmi" /><br>Wagmi</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/ethers/2535A0" width="52" height="52" alt="Ethers.js" /><br>Ethers.js</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/hardhat/FFF100" width="52" height="52" alt="Hardhat" /><br>Hardhat</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="52" height="52" alt="Hardhat" /><br>Hardhat</td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/walletconnect/3B99FC" width="52" height="52" alt="WalletConnect" /><br>WalletConnect</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/metamask/F6851B" width="52" height="52" alt="MetaMask" /><br>MetaMask</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" width="52" height="52" alt="MetaMask" /><br>MetaMask</td>
   </tr>
 </table>
 
