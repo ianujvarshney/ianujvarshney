@@ -108,7 +108,7 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React Native" /><br>React Native</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="52" height="52" alt="React Query" /><br>React Query</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="52" height="52" alt="React Hook Form" /><br>React Hook Form</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=socketio&theme=light" width="52" height="52" alt="Socket.io" /><br>Socket.io</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/socketdotio/010101/FFFFFF" width="52" height="52" alt="Socket.io" /><br>Socket.io</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/timescale/FDB515" width="52" height="52" alt="TimescaleDB" /><br>TimescaleDB</td>
     <td align="center" width="96"><img src="https://logo.svgcdn.com/token-branded/wagmi.png" width="52" height="52" alt="Wagmi" /><br>Wagmi</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/ethers/2535A0" width="52" height="52" alt="Ethers.js" /><br>Ethers.js</td>
