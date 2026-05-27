@@ -117,6 +117,7 @@
   <tr>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/walletconnect/3B99FC" width="52" height="52" alt="WalletConnect" /><br>WalletConnect</td>
     <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" width="52" height="52" alt="MetaMask" /><br>MetaMask</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="52" height="52" alt="GitHub Actions" /><br>GitHub Actions</td>
   </tr>
 </table>
 
@@ -137,7 +138,7 @@
 
 | Role | Company | Focus |
 | --- | --- | --- |
-| **Full Stack Developer** | Inriser Consulting Private Limited | Realtime market data, OMS architecture, PostgreSQL, TimescaleDB, Redis, WebSockets, secure admin APIs |
+| **Full Stack Developer** | Inriser Consulting Private Limited | Realtime market data, OMS architecture, PostgreSQL, TimescaleDB, Redis, WebSockets, secure admin APIs, GitHub Actions |
 | **MERN Stack Developer / Blockchain Enthusiast** | All Digital | DApps, Next.js, TypeScript, GraphQL, Web3.js, Solidity, Hardhat, wallet integrations |
 | **MERN Stack Developer** | QHR Solution | SaaS APIs, MongoDB optimization, authentication, product workflows, performance improvements |
 | **React Developer** | iQuincesoft Pvt Ltd. | Client projects, reusable React components, responsive UI delivery |
