@@ -148,15 +148,14 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianujvarshney&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Anuj Varshney GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ianujvarshney&amp;theme=transparent" alt="Anuj Varshney GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ianujvarshney&amp;theme=transparent" alt="Anuj Varshney top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ianujvarshney&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Anuj Varshney GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianujvarshney&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Anuj Varshney top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianujvarshney&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Anuj Varshney GitHub streak" />
 </p>
 
-![Anuj Varshney's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ianujvarshney&theme=github-compact&area=true&hide_border=true)
 
 ---
 
