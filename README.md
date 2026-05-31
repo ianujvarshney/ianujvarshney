@@ -156,6 +156,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianujvarshney&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Anuj Varshney GitHub streak" />
 </p>
 
+![Anuj Varshney's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ianujvarshney&theme=github-compact&area=true&hide_border=true)
 
 ---
 
