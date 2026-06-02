@@ -158,6 +158,14 @@
 
 ![Anuj Varshney's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ianujvarshney&theme=github-compact&area=true&hide_border=true)
 
+<p align="center">
+  <img src="github_summary.png" alt="Anuj Varshney GitHub Stats Summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="timeline.png" alt="Anuj Varshney GitHub Repository Timeline" width="100%" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
